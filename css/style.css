@@ -25,6 +25,8 @@ body {
   background-image: url("../img/bobs-burgers.webp");
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
 }
 
 .container {
